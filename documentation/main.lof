@@ -1,0 +1,28 @@
+\select@language {romanian}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Explicarea pinilor pl\IeC {\u a}cii Arduino Uno\relax }}{6}{figure.caption.14}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Altimu-10 v4\relax }}{8}{figure.caption.22}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Conectarea AltIMU-10 v4 la Arduino Uno\relax }}{9}{figure.caption.24}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Anima\cb {t}ie Unity\relax }}{11}{figure.caption.27}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Editorul Unity\relax }}{12}{figure.caption.29}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Uneltele \textit {Transform} \cb {s}i \textit {Rigidbody} \relax }}{13}{figure.caption.31}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Confirmarea ata\cb {s}\IeC {\u a}rii scriptului \relax }}{14}{figure.caption.49}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Datele procesate de arduino \cb {s}i afi\cb {s}ate prin modulul serial \relax }}{16}{figure.caption.72}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Editorul Matlab\relax }}{18}{figure.caption.75}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Conexiunea dintre placa Arduino \cb {s}i calculator\relax }}{19}{figure.caption.77}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Conexiunea dintre placa Arduino \cb {s}i calculator\relax }}{20}{figure.caption.108}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Reprezentarea unghiurilor Tait-Bryan. Unghiul $\Psi $ corespunde rota\cb {t}iei \IeC {\^\i }n jurul axei $Z$. Unghiul $\Phi $ corespunde rota\cb {t}iei \IeC {\^\i }n jurul axei $X$. Unghiul $\Theta $ corespunde rota\cb {t}iei \IeC {\^\i }n jurul axei $Y$ \relax }}{22}{figure.caption.111}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Orientarea vectorului ${}^{A}\mathaccentV {hat}05E{r}$ ce se rote\cb {s}te \IeC {\^\i }n cu unghiul $\Theta $ \IeC {\^\i }n sistemul de coordonate $A$ raportat la sistemul de coordonate $B$ \relax }}{23}{figure.caption.114}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Schema bloc de determinare a orient\IeC {\u a}rii pe baza fuzion\IeC {\u a}rii celor dou\IeC {\u a} metode \relax }}{40}{figure.caption.212}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Schema bloc de determinare a orient\IeC {\u a}rii pe baza fuzion\IeC {\u a}rii celor dou\IeC {\u a} metode, compensarea distorsiunilor magnetice(Group1) \cb {s}i compensarea erorii giroscopului (Group2). \relax }}{42}{figure.caption.220}
+\contentsline {figure}{\numberline {7.16}{\ignorespaces Parametrii giroscopului \IeC {\^\i }n regim sta\cb {t}ionar\relax }}{44}{figure.caption.224}
+\contentsline {figure}{\numberline {7.17}{\ignorespaces Parametrii accelerometrului \IeC {\^\i }n regim sta\cb {t}ionar\relax }}{45}{figure.caption.225}
+\contentsline {figure}{\numberline {7.18}{\ignorespaces Datele furnizate de giroscop \IeC {\^\i }n regim dinamic\relax }}{45}{figure.caption.227}
+\contentsline {figure}{\numberline {7.19}{\ignorespaces Datele furnizate de accelerometru \IeC {\^\i }n regim dinamic\relax }}{46}{figure.caption.228}
+\contentsline {figure}{\numberline {7.20}{\ignorespaces Reprezentarea unghiului \IeC {\^\i }n raport cu axa $x$\relax }}{48}{figure.caption.232}
+\contentsline {figure}{\numberline {7.21}{\ignorespaces Reprezentarea unghiului \IeC {\^\i }n raport cu axa $y$\relax }}{48}{figure.caption.233}
+\contentsline {figure}{\numberline {7.22}{\ignorespaces Reprezentarea unghiului \IeC {\^\i }n raport cu axa $z$\relax }}{49}{figure.caption.234}
+\contentsline {figure}{\numberline {7.23}{\ignorespaces Reprezentarea orient\IeC {\u a}rii \IeC {\^\i }n raport cu axa $x$\relax }}{50}{figure.caption.236}
+\contentsline {figure}{\numberline {7.24}{\ignorespaces Reprezentarea orient\IeC {\u a}rii \IeC {\^\i }n raport cu axa $y$\relax }}{50}{figure.caption.237}
+\contentsline {figure}{\numberline {7.25}{\ignorespaces Reprezentarea orient\IeC {\u a}rii \IeC {\^\i }n raport cu axa $z$\relax }}{51}{figure.caption.238}
+\contentsline {figure}{\numberline {7.26}{\ignorespaces Reprezentarea orient\IeC {\u a}rii \IeC {\^\i }n 3D\relax }}{51}{figure.caption.239}
+\contentsfinish 

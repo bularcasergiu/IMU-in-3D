@@ -1,0 +1,69 @@
+\select@language {romanian}
+\contentsline {chapter}{List\IeC {\u a} de figuri}{iii}{dummy.2}
+\contentsline {chapter}{1. Introducere}{1}{chapter*.4}
+\contentsline {section}{\numberline {1.1}Actualitatea \cb {s}i necesitatea temei}{1}{section.5}
+\contentsline {section}{\numberline {1.2}Problema propus\IeC {\u a}}{2}{section.6}
+\contentsline {section}{\numberline {1.3}Obiectivele lucr\IeC {\u a}rii}{3}{section.10}
+\contentsline {section}{\numberline {1.4}Structura lucr\IeC {\u a}rii}{3}{section.11}
+\contentsline {chapter}{2. Arhitecura hardware}{5}{chapter*.12}
+\contentsline {section}{\numberline {2.1}Placa de dezvoltare Arduino Uno}{5}{section.13}
+\contentsline {section}{\numberline {2.2}Pachetul de sinzori accelerometru, giroscop \cb {s}i magnetometru \\AltIMU-10 v4}{7}{section.21}
+\contentsline {section}{\numberline {2.3}Conectarea AltIMU-10 v4 la Arduino Uno}{8}{section.23}
+\contentsline {chapter}{3. Arhitectura software}{10}{chapter*.25}
+\contentsline {section}{\numberline {3.1}Platforma de dezvoltare Unity 3D}{10}{section.26}
+\contentsline {subsection}{\numberline {3.1.1}Editorul Unity}{11}{subsection.28}
+\contentsline {subsection}{\numberline {3.1.2}Crearea unei anima\cb {t}ii \IeC {\^\i }n Unity3D}{12}{subsection.30}
+\contentsline {subsection}{\numberline {3.1.3}Controlul unei anima\cb {t}ii \IeC {\^\i }n Unity}{12}{subsection.32}
+\contentsline {section}{\numberline {3.2}Limbajul de programare specific pl\IeC {\u a}cii de dezvoltare Arduino}{14}{section.50}
+\contentsline {subsection}{\numberline {3.2.1}Structura limbajului arduino}{14}{subsection.51}
+\contentsline {subsection}{\numberline {3.2.2}Vizulaizarea datelor \IeC {\^\i }n ediorul arduino}{15}{subsection.71}
+\contentsline {section}{\numberline {3.3}Platforma Matlab}{16}{section.73}
+\contentsline {subsection}{\numberline {3.3.1}Structura sistemului MATLAB }{17}{subsection.74}
+\contentsline {section}{\numberline {3.4}Conexiunea dintre Arduino \cb {s}i calculator}{18}{section.76}
+\contentsline {subsection}{\numberline {3.4.1}Conexiunea dintre placa de dezvolatre Arduino \cb {s}i Unity}{19}{subsection.78}
+\contentsline {subsection}{\numberline {3.4.2}Conexiunea dintre placa de dezvolatre Arduino \cb {s}i Matlab}{20}{subsection.107}
+\contentsline {chapter}{4. Conven\cb {t}iile orient\IeC {\u a}rii}{21}{chapter*.109}
+\contentsline {section}{\numberline {4.1}Unghiurile lui Euler}{21}{section.110}
+\contentsline {section}{\numberline {4.2}Cuaternionii}{22}{section.112}
+\contentsline {subsection}{\numberline {4.2.1}Norma unui cuaternion}{23}{subsection.115}
+\contentsline {subsection}{\numberline {4.2.2}\IeC {\^I}nmul\cb {t}irea}{24}{subsection.118}
+\contentsline {subsection}{\numberline {4.2.3}Vectorul de rota\cb {t}ie}{24}{subsection.122}
+\contentsline {subsection}{\numberline {4.2.4}Derivata unui cuaternion}{24}{subsection.126}
+\contentsline {subsection}{\numberline {4.2.5}Determinarea unghiurilor lui Euler pe baza cuaternionilor}{25}{subsection.128}
+\contentsline {chapter}{5. Filtrarea datelor}{26}{chapter*.132}
+\contentsline {section}{\numberline {5.1}Filtrul Kalman}{26}{section.133}
+\contentsline {subsection}{\numberline {5.1.1}Predic\cb {t}ia}{26}{subsection.134}
+\contentsline {subsection}{\numberline {5.1.2}M\IeC {\u a}surarea}{27}{subsection.137}
+\contentsline {subsection}{\numberline {5.1.3}Asocierea datelor}{27}{subsection.140}
+\contentsline {subsection}{\numberline {5.1.4}Corec\cb {t}ie}{28}{subsection.142}
+\contentsline {subsection}{\numberline {5.1.5}Vectorul de stare}{28}{subsection.146}
+\contentsline {subsection}{\numberline {5.1.6}Predic\cb {t}ia modelului \cb {s}i m\IeC {\u a}sur\IeC {\u a}torile modelului orient\IeC {\u a}rii }{28}{subsection.148}
+\contentsline {section}{\numberline {5.2}Dezavantajele folosirii filtrului Kalman liniar}{29}{section.150}
+\contentsline {section}{\numberline {5.3}Filtrul Kalman extins}{29}{section.151}
+\contentsline {subsection}{\numberline {5.3.1}Vectorul de stare}{29}{subsection.152}
+\contentsline {subsection}{\numberline {5.3.2}Formularea modelului predic\cb {t}iei}{29}{subsection.155}
+\contentsline {subsection}{\numberline {5.3.3}Formularea modelului m\IeC {\u a}sur\IeC {\u a}torilor}{30}{subsection.160}
+\contentsline {subsubsection}{\numberline {5.3.3.1}Maparea parametrilor accelerometrului}{31}{subsubsection.162}
+\contentsline {subsubsection}{\numberline {5.3.3.2}Maparea parametrilor magnetometrului}{31}{subsubsection.164}
+\contentsline {subsection}{\numberline {5.3.4}Matricele de covarian\cb {t}\IeC {\u a}}{32}{subsection.171}
+\contentsline {subsection}{\numberline {5.3.5}Ecua\cb {t}iile filtrului Kalman extins}{33}{subsection.174}
+\contentsline {chapter}{6. Determinarea orient\IeC {\u a}rii pe baza filtrului AHRS}{34}{chapter*.176}
+\contentsline {section}{\numberline {6.1}Filtrul AHRS}{34}{section.177}
+\contentsline {section}{\numberline {6.2}Principiile folosite \IeC {\^\i }n filtrul AHRS}{35}{section.178}
+\contentsline {subsection}{\numberline {6.2.1}Orientarea pe baza vitezei unghiulare}{35}{subsection.179}
+\contentsline {subsection}{\numberline {6.2.2}Orientarea pe baza vectorului m\IeC {\u a}sur\IeC {\u a}torilor}{36}{subsection.184}
+\contentsline {subsection}{\numberline {6.2.3}Fuziunea celor dou\IeC {\u a} metode de determianre a orient\IeC {\u a}rii}{39}{subsection.203}
+\contentsline {subsection}{\numberline {6.2.4}Compensarea deform\IeC {\u a}rii magnetice}{40}{subsection.213}
+\contentsline {subsection}{\numberline {6.2.5}Controlul implic\IeC {\u a}rii erorii furnizate de giroscop}{41}{subsection.216}
+\contentsline {chapter}{7. Rezultate experimentale}{43}{chapter*.221}
+\contentsline {section}{\numberline {7.1}Analiza datelor citite de senzorii iner\cb {t}iali}{44}{section.222}
+\contentsline {subsection}{\numberline {7.1.1}Analiza parametrilor \IeC {\^\i }n regim static}{44}{subsection.223}
+\contentsline {subsection}{\numberline {7.1.2}Analiza datelor de intre \IeC {\^\i }n regim dinamic}{45}{subsection.226}
+\contentsline {section}{\numberline {7.2}Rezultatele algoritmilor de determinare a orient\IeC {\u a}rii}{47}{section.229}
+\contentsline {subsection}{\numberline {7.2.1}Rezultatele determin\IeC {\u a}rii orient\IeC {\u a}rii pe baza unghiurilor lui Euler \cb {s}i a filtrului AHRS}{47}{subsection.230}
+\contentsline {subsubsection}{\numberline {7.2.1.1}Rezultatele determin\IeC {\u a}rii orient\IeC {\u a}rii \IeC {\^\i }n regim static}{48}{subsubsection.231}
+\contentsline {subsubsection}{\numberline {7.2.1.2}Rezultatele determin\IeC {\u a}rii orient\IeC {\u a}rii \IeC {\^\i }n regim dinamic}{49}{subsubsection.235}
+\contentsline {chapter}{8. Concluzii \cb {s}i dezvolt\IeC {\u a}ri ulterioare}{52}{chapter*.240}
+\contentsline {section}{\numberline {8.1}Concluziile proiectului}{52}{section.241}
+\contentsline {section}{\numberline {8.2}Direc\cb {t}ii de dezvoltare ulterioar\IeC {\u a}}{54}{section.242}
+\contentsfinish 
